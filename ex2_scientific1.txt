@@ -3,12 +3,10 @@
 # ex2_scientific1
 
 ## Nội dung bài
-'''
 Hiển thị ngẫu nhiên $N=50$ hình tròn:
 + Tâm $c_i = (x_i,y_i)$ ngẫu nhiên với $x_i, y_i \in \left[0, 1 \right]$
 + Màu sắc $color_i$ ngẫu nhiên với $color_i \in \left[0, 1 \right]$
 + Diện tích $area_i = \pi * r_i^2$ với sinh ngẫu nhiên $r_i \in \left[0, 1 \right]$
-'''
 ## Bài làm
 
 #%% md
